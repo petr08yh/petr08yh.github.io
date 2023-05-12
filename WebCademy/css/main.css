@@ -1,0 +1,13 @@
+h1 {
+    color: coral;
+}
+
+.green {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+.red {
+    color: darkred;
+    text-decoration: overline;
+}
